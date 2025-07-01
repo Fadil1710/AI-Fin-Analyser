@@ -17,7 +17,7 @@ export default function GenAIFinancialApp() {
           <div className="flex justify-between items-center h-16">
             <div className="flex items-center space-x-4">
               <h1 className="text-xl font-bold text-gray-900">GenAI Financial Analyzer</h1>
-              <Badge variant="secondary">Petrol d.d. Analysis PoC</Badge>
+              {/* <Badge variant="secondary">Petrol d.d. Analysis PoC</Badge> */}
             </div>
           </div>
         </div>
